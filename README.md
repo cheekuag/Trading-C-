@@ -65,7 +65,3 @@ DeribitTradingSystem/
 ```
 
 
-
-## Credit Aditya Agrawal 
-## aditya.agrawal@iitg.ac.in 
-## Indian Institue of Technology Guwahati , Btech Computer Science and Engineering
