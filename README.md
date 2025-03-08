@@ -26,6 +26,10 @@ The project relies on the following libraries:
 #### 1. **Boost**  
 ```sh  
 git clone --recursive https://github.com/boostorg/boost.git  
+cd boost  
+./bootstrap.sh  
+./b2 install  
+```
 
 #### 2. **OpenSSL** (For Linux)  
 ```sh  
